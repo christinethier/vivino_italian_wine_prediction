@@ -6,6 +6,7 @@ The project incorporates the following algorithms:
 
 - Webscraping 
 - Data Sctructuring
+- Data Analysis
 - Simple Machine Learning models as Linear regression, Ridge regression, Lasso regression and Elastic Net.
 
 This project revolves around the research objective of finding the most accurate machine learning model to predict the ratings of Italian red wines by utilising the userbased data scraped from the Vivino social network. 
